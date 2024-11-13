@@ -1,2 +1,3 @@
-# index.html
-trabalho
+body(
+    background-color: 
+)
